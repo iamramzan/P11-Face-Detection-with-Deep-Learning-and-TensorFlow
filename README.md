@@ -26,4 +26,4 @@ In this project, I developed a deep learning-based face detection model utilizin
 ✨ Let’s Collaborate!
 I’d love to hear your thoughts! Whether it’s feedback, feature suggestions, or entirely new use cases, let’s explore these ideas together. Collaborate with me to push the boundaries of what AI-powered Face Detection can achieve. 😊
 
-<img src="https://github.com/iamramzan/P11-Face-Detection-with-Deep-Learning-and-TensorFlow/blob/main/Deep%20Face%20Detection.png">
+[![P11: Face Detection with Deep Learning and TensorFlow](https://img.youtube.com/vi/tdFxTwQE8QU/0.jpg)](https://youtu.be/tdFxTwQE8QU)
