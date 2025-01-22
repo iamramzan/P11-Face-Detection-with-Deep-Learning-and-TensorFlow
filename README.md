@@ -1,4 +1,4 @@
-## P11-Face-Detection-with-Deep-Learning-and-TensorFlow
+## Face-Detection-with-Deep-Learning-and-TensorFlow
 
 In this project, I developed a deep learning-based face detection model utilizing an object detection architecture implemented with TensorFlow and Python. The model is designed to accurately detect faces within images, leveraging powerful tools and libraries to ensure efficient performance. This project serves as an application of modern deep learning techniques to solve real-world problems in computer vision.
 
